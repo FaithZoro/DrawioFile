@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.0">
   <diagram name="第 1 页" id="9cIVjtcakUyVUGA3XNN7">
-    <mxGraphModel dx="1666" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1449" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ppGhZPvesxdBHtW0obNA-3" value="即插即充使用前提如下" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry width="140" height="118" as="geometry" />
+          <mxGeometry y="10" width="140" height="118" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-4" value="不使能网络：卡片类型：5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ppGhZPvesxdBHtW0obNA-3">
           <mxGeometry y="26" width="140" height="44" as="geometry" />
@@ -13,17 +13,13 @@
         <mxCell id="ppGhZPvesxdBHtW0obNA-7" value="使能网络：卡片类型：4、5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="ppGhZPvesxdBHtW0obNA-3">
           <mxGeometry y="70" width="140" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-15" target="ppGhZPvesxdBHtW0obNA-16">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ppGhZPvesxdBHtW0obNA-15" value="首页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="422" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-15" value="充电桩屏幕参数设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="424" y="5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-16" target="ppGhZPvesxdBHtW0obNA-84">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-16" value="使能即插即充" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="424" y="105" width="120" height="60" as="geometry" />
+        <mxCell id="ppGhZPvesxdBHtW0obNA-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-15" target="ppGhZPvesxdBHtW0obNA-118">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="482" y="210" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-22" target="ppGhZPvesxdBHtW0obNA-28">
           <mxGeometry relative="1" as="geometry" />
@@ -32,107 +28,84 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-22" value="是否使能网络" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="424" y="464" width="120" height="80" as="geometry" />
+          <mxGeometry x="422" y="664" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-28" value="卡片类型：5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="584" y="474" width="120" height="60" as="geometry" />
+          <mxGeometry x="584" y="674" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-30" target="ppGhZPvesxdBHtW0obNA-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-30" value="卡片类型：4/5" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="264" y="474" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-34" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="534" y="472" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-35" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="384" y="472" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-36" target="ppGhZPvesxdBHtW0obNA-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-36">
+        <mxCell id="ppGhZPvesxdBHtW0obNA-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-30" target="ppGhZPvesxdBHtW0obNA-38">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="324" y="574" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="264" y="644" />
-              <mxPoint x="264" y="574" />
-            </Array>
+            <mxPoint x="324" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-36" value="是否插枪" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="284" y="604" width="80" height="80" as="geometry" />
+        <mxCell id="ppGhZPvesxdBHtW0obNA-30" value="卡片类型：4/5" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="264" y="674" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ppGhZPvesxdBHtW0obNA-34" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="534" y="672" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppGhZPvesxdBHtW0obNA-35" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="384" y="680" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-38" target="ppGhZPvesxdBHtW0obNA-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-38" value="与平台交互" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="264" y="734" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-43" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="314" y="692" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-44" value="否，等待插枪" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="174" y="614" width="100" height="30" as="geometry" />
+          <mxGeometry x="264" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-45" target="ppGhZPvesxdBHtW0obNA-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ppGhZPvesxdBHtW0obNA-127" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ppGhZPvesxdBHtW0obNA-48">
+          <mxGeometry x="-0.44" y="3" relative="1" as="geometry">
+            <mxPoint x="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-45" target="ppGhZPvesxdBHtW0obNA-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ppGhZPvesxdBHtW0obNA-126" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ppGhZPvesxdBHtW0obNA-50">
+          <mxGeometry x="-0.1" y="-3" relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-45" value="交互是否成功" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="284" y="834" width="80" height="80" as="geometry" />
+          <mxGeometry x="284" y="910" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-47" target="ppGhZPvesxdBHtW0obNA-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-47" value="跳转到自检页面" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="264" y="964" width="120" height="60" as="geometry" />
+          <mxGeometry x="264" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-49" value="屏幕提示卡片故障类型" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="104" y="844" width="120" height="60" as="geometry" />
+          <mxGeometry x="104" y="920" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ppGhZPvesxdBHtW0obNA-56">
+        <mxCell id="ppGhZPvesxdBHtW0obNA-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ppGhZPvesxdBHtW0obNA-59">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="644" y="534" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-56">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="644" y="734" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-56">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="644" y="574" as="targetPoint" />
+            <mxPoint x="644" y="734" as="sourcePoint" />
+            <mxPoint x="644" y="804" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="584" y="644" />
-              <mxPoint x="584" y="574" />
+              <mxPoint x="645" y="734" />
+              <mxPoint x="645" y="760" />
+              <mxPoint x="610" y="760" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-56" value="是否插枪" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="604" y="604" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-57" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="634" y="692" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-58" value="否，等待插枪" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="478" y="604" width="100" height="30" as="geometry" />
+        <mxCell id="ppGhZPvesxdBHtW0obNA-58" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="518" y="799" width="20" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-59" target="ppGhZPvesxdBHtW0obNA-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-59" value="跳转到自检页面" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="584" y="734" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-60" target="ppGhZPvesxdBHtW0obNA-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-60" value="报文正常交互自检完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="418" y="1104" width="120" height="60" as="geometry" />
+          <mxGeometry x="418" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-65" target="ppGhZPvesxdBHtW0obNA-67">
           <mxGeometry relative="1" as="geometry" />
@@ -141,49 +114,49 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-65" value="车辆Vin与文件存储Vin码是否完全匹配" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="365" y="1224" width="226" height="120" as="geometry" />
+          <mxGeometry x="365" y="1300" width="226" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-67" target="ppGhZPvesxdBHtW0obNA-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-67" value="进入真正的充电流程" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="418" y="1414" width="120" height="60" as="geometry" />
+          <mxGeometry x="418" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-69">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="1790" as="targetPoint" />
+            <mxPoint x="480" y="1866" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="670" y="1790" />
+              <mxPoint x="670" y="1866" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-69" value="结束充电自检流程回到首页" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="604" y="1414" width="120" height="60" as="geometry" />
+          <mxGeometry x="604" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-71" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="484" y="1352" width="40" height="30" as="geometry" />
+          <mxGeometry x="484" y="1428" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-72" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="624" y="1352" width="40" height="30" as="geometry" />
+          <mxGeometry x="624" y="1428" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-77" target="ppGhZPvesxdBHtW0obNA-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-77" value="功率传输" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="418" y="1554" width="120" height="60" as="geometry" />
+          <mxGeometry x="418" y="1630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-79" target="ppGhZPvesxdBHtW0obNA-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-79" value="结束充电" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="418" y="1694" width="120" height="60" as="geometry" />
+          <mxGeometry x="418" y="1770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-84" target="ppGhZPvesxdBHtW0obNA-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-90" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ppGhZPvesxdBHtW0obNA-89">
           <mxGeometry x="-0.431" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-4" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-84" target="ppGhZPvesxdBHtW0obNA-93">
@@ -195,63 +168,91 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-84" value="卡片模式是否为3？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="426" y="210" width="116" height="70" as="geometry" />
+          <mxGeometry x="410" y="410" width="144" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-88" value="等待点击充电，不走即插即充流程" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="44" y="215" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-93">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="484" y="465" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-98" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ppGhZPvesxdBHtW0obNA-97">
-          <mxGeometry x="-0.3333" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+          <mxGeometry x="44" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-93" target="ppGhZPvesxdBHtW0obNA-99">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="406" y="365" as="sourcePoint" />
+            <mxPoint x="406" y="565" as="sourcePoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-93" value="3S内是否有点击屏幕操作？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="406" y="305" width="156" height="100" as="geometry" />
+        <mxCell id="ppGhZPvesxdBHtW0obNA-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="482" y="667" as="targetPoint" />
+            <mxPoint x="482" y="602" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-99" value="跳转到第一页，等待刷卡走正常充电流程" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="44" y="325" width="120" height="60" as="geometry" />
+        <mxCell id="ppGhZPvesxdBHtW0obNA-93" value="插枪后3S内是否有点击屏幕操作？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="404" y="505" width="156" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ppGhZPvesxdBHtW0obNA-99" value="跳转到刷卡页面，等待刷卡走正常充电流程" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="44" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-101" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="336" y="333" width="40" height="30" as="geometry" />
+          <mxGeometry x="336" y="533" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-112" target="ppGhZPvesxdBHtW0obNA-99">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="1860" as="sourcePoint" />
+            <mxPoint x="310" y="2060" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-102" target="ppGhZPvesxdBHtW0obNA-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-102" target="ppGhZPvesxdBHtW0obNA-15">
+        <mxCell id="ppGhZPvesxdBHtW0obNA-102" value="是否拔插枪？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="438" y="1896" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ppGhZPvesxdBHtW0obNA-108" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="394" y="1906" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppGhZPvesxdBHtW0obNA-112" value="如还需充电，请点击屏幕充电按钮" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="274" y="1906" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ppGhZPvesxdBHtW0obNA-115" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="522" y="1906" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppGhZPvesxdBHtW0obNA-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-118">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="482" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ppGhZPvesxdBHtW0obNA-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-118">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="488" y="130" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="790" y="1860" />
-              <mxPoint x="790" y="35" />
+              <mxPoint x="578" y="210" />
+              <mxPoint x="578" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-102" value="是否拔插枪？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="438" y="1820" width="80" height="80" as="geometry" />
+        <mxCell id="ppGhZPvesxdBHtW0obNA-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ppGhZPvesxdBHtW0obNA-131">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="320" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-108" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="394" y="1830" width="40" height="30" as="geometry" />
+        <mxCell id="ppGhZPvesxdBHtW0obNA-118" value="是否插枪" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="412" y="170" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-112" value="如还需充电，请点击屏幕充电按钮" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="274" y="1830" width="120" height="60" as="geometry" />
+        <mxCell id="ppGhZPvesxdBHtW0obNA-122" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="250" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-115" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1838" width="40" height="30" as="geometry" />
+        <mxCell id="ppGhZPvesxdBHtW0obNA-131" value="正常充电流程，可刷卡可无卡点击充电等" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="44" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ppGhZPvesxdBHtW0obNA-133" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="314" y="290" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ppGhZPvesxdBHtW0obNA-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-134" target="ppGhZPvesxdBHtW0obNA-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ppGhZPvesxdBHtW0obNA-134" value="是否使能即插即充" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="412" y="280" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ppGhZPvesxdBHtW0obNA-137" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="568" y="170" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
