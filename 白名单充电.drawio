@@ -126,7 +126,7 @@
         </mxCell>
         <mxCell id="6tpSNFjBKZhkVtHwbKnZ-68" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6tpSNFjBKZhkVtHwbKnZ-59">
           <mxGeometry x="-0.3106" y="2" relative="1" as="geometry">
-            <mxPoint x="13" as="offset" />
+            <mxPoint x="-69" y="-38" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6tpSNFjBKZhkVtHwbKnZ-52" value="卡片类型是否为5？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -142,7 +142,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6tpSNFjBKZhkVtHwbKnZ-58" value="将卡号与文件存的所有卡号对比" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="155" y="1190" width="120" height="60" as="geometry" />
+          <mxGeometry x="337.5" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6tpSNFjBKZhkVtHwbKnZ-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6tpSNFjBKZhkVtHwbKnZ-60" target="6tpSNFjBKZhkVtHwbKnZ-62">
           <mxGeometry relative="1" as="geometry" />
@@ -151,22 +151,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6tpSNFjBKZhkVtHwbKnZ-60" value="匹配成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="147.5" y="1290" width="135" height="70" as="geometry" />
+          <mxGeometry x="330" y="1240" width="135" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6tpSNFjBKZhkVtHwbKnZ-62" value="提示匹配失败" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="1295" width="120" height="60" as="geometry" />
+          <mxGeometry x="182.5" y="1245" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6tpSNFjBKZhkVtHwbKnZ-64" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1290" width="40" height="30" as="geometry" />
+          <mxGeometry x="302.5" y="1240" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6tpSNFjBKZhkVtHwbKnZ-65" value="进入自检，后续流程与正常充电一致" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="155" y="1445" width="120" height="60" as="geometry" />
+          <mxGeometry x="337.5" y="1395" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6tpSNFjBKZhkVtHwbKnZ-67" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="210" y="758" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6tpSNFjBKZhkVtHwbKnZ-69" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="210" y="1378" width="40" height="30" as="geometry" />
+          <mxGeometry x="392.5" y="1328" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6tpSNFjBKZhkVtHwbKnZ-70" value="就算刷卡了，什么也不做，无提示" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="685" width="120" height="60" as="geometry" />
@@ -220,7 +220,12 @@
           <mxGeometry x="525" y="1015" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6tpSNFjBKZhkVtHwbKnZ-89" value="平台回复成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="527.5" y="1118" width="115" height="80" as="geometry" />
+          <mxGeometry x="527.5" y="1130" width="115" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6tpSNFjBKZhkVtHwbKnZ-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6tpSNFjBKZhkVtHwbKnZ-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="458" y="1170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
