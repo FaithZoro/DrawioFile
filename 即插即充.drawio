@@ -185,14 +185,19 @@
             <mxPoint x="482" y="602" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-93" value="插枪后3S内是否有点击屏幕操作？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ppGhZPvesxdBHtW0obNA-139" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ppGhZPvesxdBHtW0obNA-136">
+          <mxGeometry x="-0.3615" y="2" relative="1" as="geometry">
+            <mxPoint x="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ppGhZPvesxdBHtW0obNA-93" value="插枪后3S内是否有点击屏幕充电按钮？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="404" y="505" width="156" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-99" value="跳转到刷卡页面，等待刷卡走正常充电流程" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="44" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-101" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="336" y="533" width="40" height="30" as="geometry" />
+          <mxGeometry x="314" y="533" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-112" target="ppGhZPvesxdBHtW0obNA-99">
           <mxGeometry relative="1" as="geometry">
@@ -201,6 +206,14 @@
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-102" target="ppGhZPvesxdBHtW0obNA-112">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ppGhZPvesxdBHtW0obNA-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-102" target="ppGhZPvesxdBHtW0obNA-118">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="1936" />
+              <mxPoint x="800" y="210" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-102" value="是否拔插枪？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="438" y="1896" width="80" height="80" as="geometry" />
@@ -212,7 +225,7 @@
           <mxGeometry x="274" y="1906" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-115" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="522" y="1906" width="40" height="30" as="geometry" />
+          <mxGeometry x="510" y="1896" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-118">
           <mxGeometry relative="1" as="geometry">
@@ -221,7 +234,7 @@
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-118">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="488" y="130" as="targetPoint" />
+            <mxPoint x="482" y="130" as="targetPoint" />
             <Array as="points">
               <mxPoint x="578" y="210" />
               <mxPoint x="578" y="130" />
