@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.0">
   <diagram name="第 1 页" id="9cIVjtcakUyVUGA3XNN7">
-    <mxGraphModel dx="1633" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4695" dy="2240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,6 +29,9 @@
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-22" value="是否使能网络" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="422" y="664" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ppGhZPvesxdBHtW0obNA-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-28" target="ppGhZPvesxdBHtW0obNA-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-28" value="卡片类型：5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="584" y="674" width="120" height="60" as="geometry" />
@@ -79,18 +82,7 @@
           <mxGeometry x="264" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-49" value="屏幕提示卡片故障类型" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="104" y="920" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ppGhZPvesxdBHtW0obNA-59">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="644" y="734" as="sourcePoint" />
-            <mxPoint x="644" y="804" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="645" y="734" />
-              <mxPoint x="645" y="760" />
-              <mxPoint x="610" y="760" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="44" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-58" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="518" y="799" width="20" height="40" as="geometry" />
@@ -99,7 +91,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-59" value="跳转到自检页面" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="584" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-60" target="ppGhZPvesxdBHtW0obNA-65">
           <mxGeometry relative="1" as="geometry" />
@@ -122,16 +114,17 @@
         <mxCell id="ppGhZPvesxdBHtW0obNA-67" value="进入真正的充电流程" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="418" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-69">
+        <mxCell id="ppGhZPvesxdBHtW0obNA-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-69">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="480" y="1866" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="670" y="1866" />
+              <mxPoint x="650" y="1550" />
+              <mxPoint x="650" y="1866" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-69" value="结束充电自检流程回到首页" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="604" y="1490" width="120" height="60" as="geometry" />
+          <mxGeometry x="591" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-71" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="484" y="1428" width="40" height="30" as="geometry" />
