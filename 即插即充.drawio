@@ -111,7 +111,7 @@
         <mxCell id="ppGhZPvesxdBHtW0obNA-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-67" target="ppGhZPvesxdBHtW0obNA-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-67" value="进入真正的充电流程" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ppGhZPvesxdBHtW0obNA-67" value="正式进入充电流程" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="418" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ppGhZPvesxdBHtW0obNA-69">
