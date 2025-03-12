@@ -219,7 +219,7 @@
         <mxCell id="ppGhZPvesxdBHtW0obNA-93" value="3S内是否有点击屏幕操作？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="406" y="305" width="156" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ppGhZPvesxdBHtW0obNA-99" value="跳转到第一页等待刷卡" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ppGhZPvesxdBHtW0obNA-99" value="跳转到第一页，等待刷卡走正常充电流程" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="44" y="325" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ppGhZPvesxdBHtW0obNA-101" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
