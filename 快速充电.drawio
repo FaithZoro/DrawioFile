@@ -1,11 +1,20 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.0">
   <diagram name="第 1 页" id="_wxlxbOuwD2xel54f2Es">
-    <mxGraphModel dx="5366" dy="2560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2683" dy="1280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="grQIQOn9JKOV-cUVF6TH-68" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#97D077,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="7" y="2360" width="820" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="grQIQOn9JKOV-cUVF6TH-65" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#CDA2BE,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry x="-0.25" y="870" width="820" height="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="grQIQOn9JKOV-cUVF6TH-64" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFE6CC,var(--ge-dark-color, #121212));" vertex="1" parent="1">
+          <mxGeometry width="820" height="850" as="geometry" />
+        </mxCell>
         <mxCell id="zf2HrxrqcfnrQOqgLEEx-1" value="快速充电使用前提如下" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-0.25" width="140" height="208" as="geometry" />
+          <mxGeometry x="60" y="20" width="140" height="208" as="geometry" />
         </mxCell>
         <mxCell id="zf2HrxrqcfnrQOqgLEEx-3" value="一、使能即插即充（开始的逻辑和即插即充共用）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="zf2HrxrqcfnrQOqgLEEx-1" vertex="1">
           <mxGeometry y="26" width="140" height="64" as="geometry" />
