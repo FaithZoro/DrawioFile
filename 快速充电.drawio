@@ -25,7 +25,7 @@
         <mxCell id="zf2HrxrqcfnrQOqgLEEx-6" value="三、使能网络：卡片类型：4、5" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="zf2HrxrqcfnrQOqgLEEx-1" vertex="1">
           <mxGeometry y="160" width="140" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="zf2HrxrqcfnrQOqgLEEx-10" value="首页" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zf2HrxrqcfnrQOqgLEEx-10" value="首页(page0)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="382" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zf2HrxrqcfnrQOqgLEEx-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zf2HrxrqcfnrQOqgLEEx-10" target="zf2HrxrqcfnrQOqgLEEx-47" edge="1">
@@ -295,7 +295,7 @@
         <mxCell id="grQIQOn9JKOV-cUVF6TH-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="grQIQOn9JKOV-cUVF6TH-12" target="grQIQOn9JKOV-cUVF6TH-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="grQIQOn9JKOV-cUVF6TH-12" value="跳转至充电页面" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="grQIQOn9JKOV-cUVF6TH-12" value="跳转至充电页面(page4)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="36.25" y="2400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="grQIQOn9JKOV-cUVF6TH-18" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -345,7 +345,7 @@
         <mxCell id="grQIQOn9JKOV-cUVF6TH-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="grQIQOn9JKOV-cUVF6TH-36" target="grQIQOn9JKOV-cUVF6TH-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="grQIQOn9JKOV-cUVF6TH-36" value="跳转至充电页面" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="grQIQOn9JKOV-cUVF6TH-36" value="跳转至充电页面(page4)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="666.25" y="2400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="grQIQOn9JKOV-cUVF6TH-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="grQIQOn9JKOV-cUVF6TH-38" target="grQIQOn9JKOV-cUVF6TH-40">
